@@ -1,0 +1,8 @@
+We have created a dataset of Hindi-English Code-Mixed Social Media Text, which consists of Tweets from Twitter. 
+Tweets are annotated with the associated emotions namely Happiness, Sadness, Anger, Fear, Disgust and Surprise 
+and also the causal language.
+
+Due to privacy policy of twitter we are releasing only tweet ids not the tweet text. Tweet text can be requested from us by
+mailing us.
+
+This dataset in in development and in future we will extend this to more number of sentences.
